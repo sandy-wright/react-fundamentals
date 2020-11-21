@@ -225,6 +225,8 @@ the exercise and instruction.
 At the end of the workshop, please go to this URL to give overall feedback.
 Thank you! https://kcd.im/rf-ws-feedback
 
+_Sandy Wright_
+
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
